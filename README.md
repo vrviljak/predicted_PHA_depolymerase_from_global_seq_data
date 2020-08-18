@@ -1,1 +1,1 @@
-# predicted_PHA_depolymerase_from_global_seq_data
+# predicted_PHA_depolymerases_from_global_seq_data
